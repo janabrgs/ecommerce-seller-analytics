@@ -38,7 +38,6 @@ Both datasets are combined and integrated in PostgreSQL using a warehouse-style 
 - Jupyter Notebook
 - Power BI
 - Power Query
-- Visual Studio Code
 
 ---
 
