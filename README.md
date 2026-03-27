@@ -18,15 +18,12 @@ The project covers the full workflow from data preparation and SQL-based feature
 
 ## Dataset
 
-The project uses e-commerce marketplace data based on the Olist dataset. It includes information on:
+The project is based on two datasets from the Olist e-commerce platform:
 
-- Sellers
-- Marketing leads
-- Lead origin and lead type
-- Lead behavior profiles
-- Orders and revenue
+- The Olist marketplace dataset (orders, sellers, and revenue data)  
+- The Olist marketing funnel dataset (leads, origin, lead type, and behavior profiles)  
 
-These data sources are integrated in PostgreSQL using a warehouse-style structure.
+Both datasets are combined and integrated in PostgreSQL using a warehouse-style structure, enabling the analysis of the full funnel from lead generation to seller revenue.
 
 ---
 
