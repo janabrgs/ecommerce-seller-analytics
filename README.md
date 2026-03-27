@@ -181,9 +181,3 @@ A Power BI dashboard was built to translate the analysis into business insights.
 
 - The model can be retrained at any time using the notebook  
 - The focus of this project is on interpretability, business relevance, and the end-to-end process  
-Business-oriented model interpretation
-Dashboard development for stakeholder communication
-Notes
-The trained model is not versioned in this repository
-The model can be retrained at any time using the notebook
-The focus of this project is on interpretability, business relevance, and the end-to-end process
