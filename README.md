@@ -48,6 +48,8 @@ ecommerce-seller-analytics/
 ├── powerbi/             # Power BI dashboard
 ├── README.md
 
+---
+
 Data Engineering
 
 The data pipeline is structured in PostgreSQL using a simple warehouse approach with raw and mart schemas.
