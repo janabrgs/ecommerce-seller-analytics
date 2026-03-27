@@ -36,6 +36,8 @@ These data sources are integrated in PostgreSQL using a warehouse-style structur
 - Power Query
 - Visual Studio Code
 
+---
+
 ## Project Structure
 
 ```text
