@@ -4,12 +4,17 @@ This project analyzes e-commerce marketplace data from the Olist dataset with th
 
 The project covers the full workflow from data preparation and SQL-based feature engineering to exploratory data analysis, machine learning, and business dashboarding.
 
+---
+
 ## Objectives
 
 - Identify high-value sellers based on revenue performance
 - Understand which factors influence seller success
 - Build a reproducible end-to-end analytics workflow
 - Translate analytical results into business insights through a dashboard
+
+---
+
 
 ## Dataset
 
@@ -22,6 +27,8 @@ The project uses e-commerce marketplace data based on the Olist dataset. It incl
 - Orders and revenue
 
 These data sources are integrated in PostgreSQL using a warehouse-style structure.
+
+---
 
 ## Tech Stack
 
